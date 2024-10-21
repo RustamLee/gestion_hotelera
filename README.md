@@ -21,6 +21,7 @@ Interfaz de consola o interfaz gráfica de usuario (GUI).
 Creación de métodos de login, registro y reserva de salas.
 Integración de la interfaz de usuario con la lógica de negocio.
 Procesar solicitudes de usuarios y mostrar información.
+Hay que hacer 3 varios de menu: para admin, recepcionista, cliente. Al usuario se le mostrará el menú que corresponde a su rol de usuario (ADMINISTRADOR, CLIENTE, RECEPCIONISTA). 
 
 Integración general
 Al finalizar cada parte:
