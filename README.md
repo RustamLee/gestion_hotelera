@@ -9,7 +9,7 @@ Implementación del mecanismo de almacenamiento de datos:
 Leer y escribir usuarios y reservas en archivos (JSON/ texto).
 Hashing de contraseñas. Configure el manejo de excepciones y el registro para gestionar los errores.
 IMPORTANTE:
-# Sólo el Administrador puede agregar un nuevo empleado al sistema,
+- Sólo el Administrador puede agregar un nuevo empleado al sistema,
 
    
 3) Gestión de reservas
