@@ -10,6 +10,8 @@ Leer y escribir usuarios y reservas en archivos (JSON/ texto).
 Hashing de contraseñas. Configure el manejo de excepciones y el registro para gestionar los errores.
 IMPORTANTE:
 - Sólo el Administrador puede agregar un nuevo empleado al sistema,
+- El cliente tiene acceso al sistema sólo si tiene una reserva activa,
+- Después de agregar un nuevo empleado al sistema o crear reservas para un cliente, se crea una contraseña por defecto (número de DNI), que debe cambiarse la primera vez que inicia sesión en el sistema. Login es email. 
 
    
 3) Gestión de reservas
